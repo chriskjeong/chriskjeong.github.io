@@ -1,0 +1,22 @@
+#bg {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	opacity: 0.5;
+}
+
+#logo {
+	height: 2rem;
+	width: 1.5rem;
+	margin-right: 0.75rem;
+	margin-left: 2rem;
+	border-radius: 50%;
+}
+
+#last {
+	margin-right: 2rem;
+}
+
+.nav-item {
+	margin-left: 1rem;
+}
